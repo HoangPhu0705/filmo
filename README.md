@@ -1,2 +1,2 @@
 # filmo
-A simple movie streaming website using PHP, HTML, CSS, JS
+A simple movie streaming website using Java Spring Boot Framework, HTML, CSS, JS
